@@ -42,10 +42,6 @@ Create a .env file and add: GEMINI_API_KEY=your_api_key_here
 
 python app.py
 
-### 4. Open in Browser
-
-http://127.0.0.1:5000
-
 ## Future Improvements
 
 -   Add news URL analysis
